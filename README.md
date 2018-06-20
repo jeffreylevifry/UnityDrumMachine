@@ -1,7 +1,7 @@
 # UnityDrumMachine
 16 step drum sequencer for mobile. Developed in Unity, styled after the early Roland series.
 
-Small issues I want to address:
+*Small issues I want to address:*
 
 **The Clock**
 
